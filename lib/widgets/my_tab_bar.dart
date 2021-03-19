@@ -26,7 +26,7 @@ class MyTabBar extends StatelessWidget {
         tabs: [
           Tab(
             icon: Text(
-              'Chat',
+              'Sohbet',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w600,
@@ -35,7 +35,7 @@ class MyTabBar extends StatelessWidget {
           ),
           Tab(
             icon: Text(
-              'Status',
+              'Durum',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w600,
@@ -44,7 +44,7 @@ class MyTabBar extends StatelessWidget {
           ),
           Tab(
             icon: Text(
-              'Call',
+              'Telefon',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.w600,

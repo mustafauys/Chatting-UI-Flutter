@@ -19,7 +19,7 @@ class RecentChats extends StatelessWidget {
           child: Row(
             children: [
               Text(
-                'Recent Chats',
+                'Son Sohbet',
                 style: MyTheme.heading2,
               ),
               Spacer(),

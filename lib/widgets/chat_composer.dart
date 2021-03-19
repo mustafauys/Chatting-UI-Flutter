@@ -29,7 +29,7 @@ Container buildChatComposer() {
                   child: TextField(
                     decoration: InputDecoration(
                       border: InputBorder.none,
-                      hintText: 'Type your message ...',
+                      hintText: 'Mesajını Yaz...',
                       hintStyle: TextStyle(color: Colors.grey[500]),
                     ),
                   ),

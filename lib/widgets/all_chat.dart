@@ -15,7 +15,7 @@ class AllChats extends StatelessWidget {
           child: Row(
             children: [
               Text(
-                'All Chats',
+                'Tüm Sohbet',
                 style: MyTheme.heading2,
               ),
             ],
@@ -35,9 +35,7 @@ class AllChats extends StatelessWidget {
                         radius: 28,
                         backgroundImage: AssetImage(allChat.avatar),
                       ),
-                      SizedBox(
-                        width: 20,
-                      ),
+                      SizedBox(),
                       GestureDetector(
                         onTap: () {
                           Navigator.push(context,

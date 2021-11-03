@@ -14,20 +14,20 @@ final User currentUser =
     User(id: 0, name: 'You', avatar: 'assets/images/Addison.jpg');
 
 final User addison =
-    User(id: 1, name: 'Melek', avatar: 'assets/images/Addison.jpg');
+    User(id: 1, name: 'Melisa', avatar: 'assets/images/Addison.jpg');
 
 final User angel = User(id: 2, name: 'Aslı', avatar: 'assets/images/Angel.jpg');
 
 final User deanna =
-    User(id: 3, name: 'Melis', avatar: 'assets/images/Deanna.jpg');
+    User(id: 3, name: 'Hande', avatar: 'assets/images/Deanna.jpg');
 
 final User jason =
-    User(id: 4, name: 'Burak', avatar: 'assets/images/Jason.jpg');
+    User(id: 4, name: 'Duran', avatar: 'assets/images/Jason.jpg');
 
 final User judd = User(id: 5, name: 'Mehmet', avatar: 'assets/images/Judd.jpg');
 
 final User leslie =
-    User(id: 6, name: 'Nihal', avatar: 'assets/images/Leslie.jpg');
+    User(id: 6, name: 'Beren', avatar: 'assets/images/Leslie.jpg');
 
 final User nathan =
     User(id: 7, name: 'Nazlı', avatar: 'assets/images/Nathan.jpg');

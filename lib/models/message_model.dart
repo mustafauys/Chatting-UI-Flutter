@@ -22,14 +22,14 @@ final List<Message> recentChats = [
   Message(
     sender: addison,
     avatar: 'assets/images/Addison.jpg',
-    time: '01:25',
+    time: '04:25',
     text: "Yazıyor...",
     unreadCount: 1,
   ),
   Message(
     sender: jason,
     avatar: 'assets/images/Jason.jpg',
-    time: '12:46',
+    time: '14:46',
     text: "Görüşelim mi?",
     unreadCount: 1,
   ),
@@ -37,13 +37,13 @@ final List<Message> recentChats = [
     sender: deanna,
     avatar: 'assets/images/Deanna.jpg',
     time: '05:26',
-    text: "Bu Çok Sevimli.",
+    text: "Harikasın.",
     unreadCount: 3,
   ),
   Message(
       sender: nathan,
       avatar: 'assets/images/Nathan.jpg',
-      time: '12:45',
+      time: '13:45',
       text: "Konuşalım mı?",
       unreadCount: 2),
 ];
